@@ -1,0 +1,9 @@
+from setuptools import setup
+
+
+setup(
+    name="mysql-postgresql-converter",
+    url="https://github.com/lanyrd/mysql-postgresql-converter/blob/master/README.md",
+    description="Lanyrd's MySQL to PostgreSQL conversion script.",
+    author="Lanyrd",
+)
